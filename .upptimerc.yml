@@ -2,6 +2,8 @@ owner: jeancloude-club
 repo: status
 
 sites:
+  - name: Accueil
+    url: https://jeancloude.club
   - name: VIP
     url: https://vip.jeancloude.club
 
