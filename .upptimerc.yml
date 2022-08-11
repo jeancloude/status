@@ -10,7 +10,7 @@ sites:
 status-website:
   cname: status.jeancloude.club
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: STATUS.JEANCLOUDE.CLUB
+  name: JEANCLOUDE.CLUB
   navbar:
     - title: Status
       href: /
