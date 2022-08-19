@@ -2,9 +2,11 @@ owner: jeancloude
 repo: status
 
 sites:
-  - name: Accueil
+  - name: home
     url: https://jeancloude.club
-  - name: VIP
+  - name: teloche
+    url: https://teloche.jeancloude.club
+  - name: vip
     url: https://vip.jeancloude.club
 
 status-website:
