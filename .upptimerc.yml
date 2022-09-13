@@ -2,6 +2,8 @@ owner: jeancloude
 repo: status
 
 sites:
+  - name: cartemembre
+    url: https://cartemembre.jeancloude.club
   - name: home
     url: https://jeancloude.club
   - name: teloche
