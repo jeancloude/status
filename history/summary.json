@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 618,
-    "timeDay": 939,
-    "timeWeek": 636,
-    "timeMonth": 583,
-    "timeYear": 618,
+    "time": 616,
+    "timeDay": 517,
+    "timeWeek": 648,
+    "timeMonth": 585,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2022-09-13": 147
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 394,
-    "timeDay": 570,
-    "timeWeek": 555,
-    "timeMonth": 609,
-    "timeYear": 394,
+    "time": 395,
+    "timeDay": 606,
+    "timeWeek": 582,
+    "timeMonth": 616,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2022-11-18": 21
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 603,
-    "timeDay": 643,
-    "timeWeek": 641,
-    "timeMonth": 702,
-    "timeYear": 603,
+    "time": 604,
+    "timeDay": 664,
+    "timeWeek": 677,
+    "timeMonth": 710,
+    "timeYear": 604,
     "dailyMinutesDown": {
       "2022-09-15": 46
     }
@@ -65,15 +65,15 @@
     "icon": "https://favicons.githubusercontent.com/vip.jeancloude.club",
     "slug": "vip",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 1162,
-    "timeDay": 1500,
-    "timeWeek": 1223,
-    "timeMonth": 1127,
+    "timeDay": 1129,
+    "timeWeek": 1258,
+    "timeMonth": 1136,
     "timeYear": 1162,
     "dailyMinutesDown": {
       "2022-09-28": 763,
