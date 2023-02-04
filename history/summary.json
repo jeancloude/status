@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 610,
-    "timeDay": 428,
-    "timeWeek": 593,
-    "timeMonth": 614,
-    "timeYear": 610,
+    "time": 609,
+    "timeDay": 528,
+    "timeWeek": 604,
+    "timeMonth": 611,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2022-09-13": 147
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 448,
-    "timeDay": 524,
-    "timeWeek": 507,
-    "timeMonth": 518,
-    "timeYear": 448,
+    "time": 449,
+    "timeDay": 622,
+    "timeWeek": 506,
+    "timeMonth": 525,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2022-11-18": 21
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 591,
-    "timeDay": 379,
-    "timeWeek": 575,
-    "timeMonth": 552,
+    "timeDay": 602,
+    "timeWeek": 593,
+    "timeMonth": 557,
     "timeYear": 591,
     "dailyMinutesDown": {
       "2022-09-15": 46
@@ -65,15 +65,15 @@
     "icon": "https://favicons.githubusercontent.com/vip.jeancloude.club",
     "slug": "vip",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.59%",
     "time": 1162,
-    "timeDay": 881,
-    "timeWeek": 1211,
-    "timeMonth": 1189,
+    "timeDay": 1108,
+    "timeWeek": 1185,
+    "timeMonth": 1195,
     "timeYear": 1162,
     "dailyMinutesDown": {
       "2023-01-25": 18,
