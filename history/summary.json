@@ -4,7 +4,7 @@
     "url": "https://cartemembre.jeancloude.club",
     "icon": "https://icons.duckduckgo.com/ip3/cartemembre.jeancloude.club.ico",
     "slug": "cartemembre",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 602,
     "timeYear": 609,
     "dailyMinutesDown": {
+      "2023-11-03": 0,
       "2023-08-20": 17,
       "2023-07-26": 27,
       "2023-06-04": 18
